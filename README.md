@@ -2,9 +2,9 @@
 
 # ReconX: Automated GST ITC Reconciliation & Compliance Agent
 
-**Live Demo:** [reconx-gst.streamlit.app](https://reconx-gst.streamlit.app) &nbsp;
+**Live Demo:** [gst-itc-reconciliation-agent.streamlit.app](https://gst-itc-reconciliation-agent.streamlit.app/)
 
-[![Tests](https://img.shields.io/badge/tests-46%2F46%20passing-success)](https://github.com/YOUR_USERNAME/gst-itc-reconciliation-agent/actions)
+[![Tests](https://img.shields.io/badge/tests-46%2F46%20passing-success)](https://github.com/puneetkaur23/gst-itc-reconciliation-agent/actions)
 [![Python](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.32%2B-ff4b4b)](https://streamlit.io/)
 
