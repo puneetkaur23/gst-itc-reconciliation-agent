@@ -28,7 +28,7 @@ Under India's GST system, businesses can only claim Input Tax Credit (ITC) if th
 
 No installation required. Upload your Purchase Register (CSV), GSTR-2B (JSON), and GSTR-3B Summary (CSV), or generate synthetic demo data with one click.
 
-**[Launch ReconX Dashboard](https://reconx-gst.streamlit.app)**
+**[Launch ReconX Dashboard](https://gst-itc-reconciliation-agent.streamlit.app/)**
 
 > *Hosted on Streamlit Cloud free tier. First load may take ~30 seconds to wake up.*
 
@@ -132,14 +132,13 @@ Every unmatched invoice gets a specific reason code, severity, and action item:
 |---|---|---|
 | ![Summary](docs/screenshot_summary.png) | ![DRC-01C](docs/screenshot_drc01c.png) | ![Table](docs/screenshot_table.png) |
 
-*Replace with your actual screenshots after deployment.*
 
 ---
 
 ## Quick Start
 
 ### Option A: Use the Live Dashboard (Recommended)
-1. Go to **[reconx-gst.streamlit.app](https://reconx-gst.streamlit.app)**
+1. Go to **[reconx-gst.streamlit.app](https://gst-itc-reconciliation-agent.streamlit.app/)**
 2. Upload your 3 files **or** click **"Generate Demo Data and Run"**
 3. Review charts, exception table, and DRC-01C risk alert
 4. Download Excel / JSON / Markdown reports
@@ -148,7 +147,7 @@ Every unmatched invoice gets a specific reason code, severity, and action item:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/gst-itc-reconciliation-agent.git
+git clone https://github.com/puneetkaur23/gst-itc-reconciliation-agent.git
 cd gst-itc-reconciliation-agent
 
 # 2. Install dependencies
@@ -226,6 +225,6 @@ Built for **GST Buildathon 2026** (Razorpay). The project demonstrates:
 
 <div align="center">
 
-**[Try Live Demo](https://reconx-gst.streamlit.app)** &nbsp;&middot;&nbsp; **[Report Issue](https://github.com/YOUR_USERNAME/gst-itc-reconciliation-agent/issues)**
+**[Try Live Demo](https://gst-itc-reconciliation-agent.streamlit.app/)** &nbsp;&middot;&nbsp; **[Report Issue](https://github.com/puneetkaur23/gst-itc-reconciliation-agent/issues)**
 
 </div>
