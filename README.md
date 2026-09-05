@@ -214,7 +214,7 @@ gst-itc-reconciliation-agent/
 
 ## Buildathon Context
 
-Built for **GST Buildathon 2026** (Razorpay). The project demonstrates:
+Built for **Razorpay Buildathon 2026** (Razorpay). The project demonstrates:
 - **Real-world problem:** Manual GST reconciliation costs Indian businesses ₹8,000+ crores in lost ITC annually
 - **Technical depth:** Fuzzy matching with domain-specific constraints (GSTIN blocking, consumed-flag deduplication)
 - **Compliance rigor:** Honest DRC-01C cross-check using computed eligible ITC, not self-reported numbers
