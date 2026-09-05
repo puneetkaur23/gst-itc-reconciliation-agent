@@ -138,7 +138,7 @@ Every unmatched invoice gets a specific reason code, severity, and action item:
 ## Quick Start
 
 ### Option A: Use the Live Dashboard (Recommended)
-1. Go to **[reconx-gst.streamlit.app](https://gst-itc-reconciliation-agent.streamlit.app/)**
+1. Go to **[gst-itc-reconciliation-agent.streamlit.app](https://gst-itc-reconciliation-agent.streamlit.app/)**
 2. Upload your 3 files **or** click **"Generate Demo Data and Run"**
 3. Review charts, exception table, and DRC-01C risk alert
 4. Download Excel / JSON / Markdown reports
